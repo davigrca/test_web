@@ -14,5 +14,3 @@ WebdriverIO is the Selenium backbone of the test project. However, I needed anot
 3. Run `npm install` to install the package dependencies.
 
 4. Run `npm run test`. You should see a browser open and a test case runs.
-# creatingrepo
-# prova_sicredi
